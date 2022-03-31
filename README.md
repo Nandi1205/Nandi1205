@@ -1,16 +1,29 @@
 ✨ Sup, I’m @Nandi1205. Junior Programmer && Decent Gamer!
 
+---
+
 About:
-	💻 *Started programming at __13__.*
-	🍰 *Currently __14__ years old.*
-	🔓 *Open-source for the win!*
+
+💻 *Started programming at __13__.*
+
+🍰 *Currently __14__ years old.*
+
+🔓 *Open-source for the win!*
+
+---
 
 Skills:
-	☕ __Javascript__. ⭐
+
+☕ __Javascript__. ⭐
 
 Other Skills:
-	📦 __JSON__.
-	🖋️ __Markdown__.
+
+📦 __JSON__.
+
+🖋️ __Markdown__.
+
+---
 
 Projects:
-	🎲 [__DiceRPG__](https://github.com/Nandi1205/DiceRPG): *A fun, open-source Discord bot.*
+
+🎲 [__DiceRPG__](https://github.com/Nandi1205/DiceRPG): *A fun, open-source Discord bot.*
