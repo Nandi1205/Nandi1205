@@ -1,4 +1,4 @@
-✨ Sup, I’m @Nandi1205. Junior Programmer && Decent Gamer!
+✨ Sup, I’m @Nandi1205. Junior Programmer!
 
 ---
 
