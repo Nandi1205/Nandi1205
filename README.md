@@ -32,4 +32,4 @@ Projects:
 
 Extras:
 
-⌨️ [ESLint settings](https://github.com/Nandi1205/Nandi1205/blob/main/.eslintrc.json)
+⌨️ [__ESLint settings__](https://github.com/Nandi1205/Nandi1205/blob/main/.eslintrc.json)
