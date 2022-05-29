@@ -1,4 +1,4 @@
-✨ Sup, I’m __Nandi1205__. Junior Programmer!
+✨ Sup, I’m __Nandi1205__. Junior programmer!
 
 ---
 
