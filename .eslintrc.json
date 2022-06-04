@@ -38,7 +38,7 @@
     "no-mixed-spaces-and-tabs": "warn",
     "no-tabs": "warn",
     "no-trailing-spaces": "warn",
-    "quotes": ["warn", "single"],
+    "quotes": ["warn", "single", { "avoidEscape": true }],
     "semi": ["warn", "never"],
     "object-curly-spacing": "warn",
     "array-bracket-spacing": "warn",
