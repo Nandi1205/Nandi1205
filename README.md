@@ -28,7 +28,7 @@ Projects:
 
 🎲 [__DiceRPG__](https://github.com/Nandi1205/DiceRPG): *Play an MMORPG in Discord with this bot!*
 
-💣 [__MinesweeperPlus__](https://github.com/Nandi1205/DiceRPG): *A bot that you can use to play minesweeper in Discord!*
+💣 [__SimpleSweeper__](https://github.com/Nandi1205/SimpleSweeper): *A bot that you can use to play minesweeper in Discord!*
 
 ---
 
