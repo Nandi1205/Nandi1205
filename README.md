@@ -16,6 +16,8 @@ Skills:
 
 ☕ __Javascript__. ⭐
 
+🌙 __Lua__.
+
 Other Skills:
 
 📦 __JSON__.
@@ -29,6 +31,8 @@ Projects:
 🎲 [__DiceRPG__](https://github.com/Nandi1205/DiceRPG): *Play an MMORPG in Discord with this bot!*
 
 💣 [__SimpleSweeper__](https://github.com/Nandi1205/SimpleSweeper): *A bot that you can use to play minesweeper in Discord!*
+
+☕ [__The Coziest Tent__](): *A small moderation bot for The Coziest Tent Discord server!*
 
 ---
 
